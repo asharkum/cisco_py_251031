@@ -9,7 +9,7 @@ def main():
     company = Company()
 
     while True:
-        print("==========Employee Management============")
+        
         print("1. Add Employee")
         print("2. Search Employee")
         print("3. Update Employee Salary")
