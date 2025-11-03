@@ -1,0 +1,2 @@
+List of words: ['All', 'the', 'Best']
+Tuple of words: ('All', 'the', 'Best')
