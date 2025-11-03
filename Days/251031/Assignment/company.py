@@ -29,8 +29,12 @@ class Company:
     def delete_employee(self, emp_id):
         emp = self.search_employee(emp_id)
         if emp:
-            self.employees.remove(emp)
-            print("Employee delete successfully \n")
+            conf = input(f"Are sure to delete Employee ID {emp_id}(y/n)?")
+            if conf == 'y':
+                self.employees.remove(emp)
+                print("Employee delete successfully \n")
+            else:
+                print("Employee not deleted!")
         else:
             print("Employee not found \n")
 
