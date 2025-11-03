@@ -19,4 +19,5 @@ with open("minmaxdata.txt", "w") as file:
 
 with open("minmaxdata.txt", "r") as file:
     content = file.read()
-    print(content)
+
+print(content)

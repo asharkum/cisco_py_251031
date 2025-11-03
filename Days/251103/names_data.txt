@@ -1,2 +1,2 @@
-List = ['1', '2', '3', '4', '5', '6']
-Tuple = ('1', '2', '3', '4', '5', '6')
+List = ['Harish', 'Mahesh', 'Tharun', 'Yoshith']
+Tuple = ('Harish', 'Mahesh', 'Tharun', 'Yoshith')
