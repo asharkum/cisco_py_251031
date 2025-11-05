@@ -1,0 +1,8 @@
+2025-11-04 12:07:14,759 - [INFO] - Employee Added Successfully
+2025-11-04 12:08:24,798 - [INFO] - Employee Deleted Successfully
+2025-11-04 12:14:41,380 - [INFO] - Employee Added Successfully
+2025-11-04 12:15:01,469 - [INFO] - Employee Updated Successfully
+2025-11-04 12:23:38,609 - [INFO] - Employee Added Successfully
+2025-11-04 12:28:13,863 - [ERROR] - Error adding employee: write_employees() missing 1 required positional argument: 'employees'
+2025-11-04 12:29:23,939 - [ERROR] - Error adding employee: write_employees() missing 1 required positional argument: 'employees'
+2025-11-04 13:34:10,949 - [ERROR] - Error adding employee: list.append() takes exactly one argument (0 given)
